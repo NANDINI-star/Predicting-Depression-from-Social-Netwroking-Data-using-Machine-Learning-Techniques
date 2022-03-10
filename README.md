@@ -28,4 +28,6 @@
   
   Best results were shown by Multinomial Naive Bayes model, 99.69%.
   
-  We also wrote a research paper for this project, which got accepted by the IEEE ICAC3N - 21 Scopus Indexed Conference, to be held in Dec, 2021.
+  We also wrote a research paper for this project, which got accepted by the IEEE ICAC3N - 21 Scopus Indexed Conference, held in Dec, 2021.
+  
+Link to Published research paper -  https://ieeexplore.ieee.org/document/9725402
